@@ -1,4 +1,4 @@
-# Task -3:Alfido-Tech-Inventory-Analysis
+# Inventory-Analysis
 The project involves the use of Python libraries including Pandas, NumPy, Matplotlib, Seaborn, and WordCloud.
 The prime datasets used in this project include
   *Purchase Price
